@@ -40,6 +40,6 @@ Check out my full portfolio and live demos at 👉 [mywebsite.com](https://your-
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Snake Game](https://github.com/your-username/snake-game) | Classic snake game with increasing difficulty and scoring system | Python |
-| [AI Voice Assistant](https://github.com/your-username/ai-voice-assistant) | Bubble wrap AI Voice Assistant for basic tasks and interaction | HTML, CSS, JavaScript |
+| [Snake Game](https://github.com/your-username/snake-game) | Classic snake game  | Python |
+| [AI Voice Assistant](https://github.com/your-username/ai-voice-assistant) | Bubble wrap AI Voice Assistant  | HTML, CSS, JavaScript |
 

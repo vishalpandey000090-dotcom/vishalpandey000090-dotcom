@@ -15,13 +15,14 @@
 
 - 💬 Ask me about **Frontend development, YouTube growth, freelancing tips, and how i manage studies+business.**
 
-- 📫 How to reach me **Email : vishalpandey000090@gmail.com**
+- 📫 How to reach me **Email : vishalpandey000090@gmail.com,**
 
 - ⚡ Fun fact **I can switch between coding, content creation, and business calls in the same day😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-pandey-35a046344/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-pandey-35a046344/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__vishal.__.pandey__?igsh=bxiwdmlobtvqexcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__vishal.__.pandey__?igsh=bxiwdmlobtvqexcy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@uniquevlogs1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@uniquevlogs1m" height="30" width="40" /></a>
 </p>
 
@@ -31,6 +32,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpandey000090-dotcom&show_icons=true&locale=en&layout=compact" alt="vishalpandey000090-dotcom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalpandey000090-dotcom&show_icons=true&locale=en" alt="vishalpandey000090-dotcom" /></p>
+
 
 
 

@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hey, I'm Vishal Pandey  
 
-<!--
-**vishalpandey000090-dotcom/vishalpandey000090-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year IT Student | 💻 Front-End Developer | 🐍 Python & ☕ Java Learner | 🎬 YouTuber (100k+ Family)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 Currently working on sharpening my *Frontend Development* skills  
+- 💡 Exploring *Java* and *Python* for problem-solving  
+- 🎥 Building a balance between *tech + creativity* through my YouTube channel  
+- 🌟 Goal: Become a *Full-Stack Developer* & create impactful projects  
+
+---
+
+## 🛠 Tech Stack  
+
+```javascript
+const vishal = {
+  frontend: ["HTML", "CSS", "JavaScript", "React"],
+  backend: ["Node.js (learning)"],
+  languages: ["Java", "Python"],
+  tools: ["Git", "GitHub", "VS Code"],
+  passion: ["Coding", "Content Creation", "Editing"]
+};
+
+
+---
+
+📊 GitHub Stats
+
+
+
+
+
+---
+
+🎬 Beyond Coding
+
+🎥 Running a YouTube channel with 100,000+ subscribers
+
+✂ Passionate about video editing & storytelling
+
+🚀 Always experimenting with tech + creativity
+
+
+
+---
+
+🌐 Connect With Me
+
+📺 YouTube
+
+💼 LinkedIn
+
+🌍 Portfolio
+
+
+
+
+

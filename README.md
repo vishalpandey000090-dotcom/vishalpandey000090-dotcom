@@ -34,7 +34,7 @@ Check out my full portfolio and live demos at 👉 [mywebsite.com](https://your-
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Snake Game](https://github.com/your-username/snake-game) | Classic snake game  | Python |
+| [Snake Game](https://github.com/vishalpandey000090-dotcom/Snake-Game.git) | Classic snake game  | Python |
 | [AI Voice Assistant](https://github.com/your-username/ai-voice-assistant) | Bubble wrap AI Voice Assistant  | HTML, CSS, JavaScript |
 
 <h3 align="left">Connect with me:</h3>

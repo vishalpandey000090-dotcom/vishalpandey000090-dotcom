@@ -74,21 +74,6 @@
 | 🎮 [Snake Game](https://github.com/vishalpandey000090-dotcom/Snake-Game.git) | A classic snake arcade game | Python |
 | 🎙️ [AI Voice Assistant](https://github.com/vishalpandey000090-dotcom/Bubble_Wrap.git) | Bubble-Wrap themed Voice Assistant | HTML, CSS, JavaScript |
 
----
-
-## ⭐ Extra Touch (Optional to add)
-If you want, I can also add:
-
-✅ GitHub Activity Graph  
-✅ Contribution Snake Animation  
-✅ Badges  
-✅ Custom Banner  
-✅ Profile GIF  
-✅ Tech Stack Badges  
-✅ Dark theme version
-
-Just tell me **“Add extra decorations”** and I’ll build the most premium GitHub README for you. 🚀🔥
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
